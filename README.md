@@ -6,7 +6,7 @@ The solution uses the MiniSom library, which provides an implementation of the S
 
 It is important to point out that Python version 3.10.5 under Windows 10 was used to solve the problem, and the NumPy library was also enabled to generate data, manipulate matrices and perform numerical operations related to the SOM; in addition, the Matplotlib library was incorporated to better appreciate the results through graphs.
 
-![image](https://github.com/YakoViTo/MapaAutoOrganizativo/assets/135473233/5f9eb6bf-717d-4535-8905-353af3cf3bef)
+![image](https://github.com/YakoViTo/MapaAutoOrganizativo/assets/135473233/9413a81f-11c1-48f1-b90d-ba9f57867461)
 
 The SOM will provide a 2D visualization of the generated point cloud, where the points will be organized according to their similarity in latent space. The boundary enclosing the point cloud will be evident in the SOM, which will allow identifying how the points are grouped according to their characteristics.
 
